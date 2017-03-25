@@ -1,0 +1,42 @@
+body{
+  background-color:black;
+}
+h1{
+color: white;
+  font-family:"Times New Roman";
+}
+
+
+.quote{
+  font-size:30px;
+}
+
+p{
+  color:white;
+  font-size:20px;
+}
+.author{
+  font-style:italic;
+  font-size: 20px;
+}
+.quotes{
+  background-color:black;
+  width:33%;
+  margin-right:auto;
+  margin-left:auto;
+  border-color:white;
+  border-style:solid;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  height:auto;
+  color:white;
+    -webkit-transition: 2s ease;
+
+}
+#newQuote {
+  -webkit-transition: 2s ease;
+}
+#me {
+  text-align: center;
+}
